@@ -1,12 +1,11 @@
 extends CharacterBody2D
 
+@export var speed: int = 100
 
-func _input(event):
-	if Input.is_action_pressed("ui_right"):
-		position.x += 5
-	if Input.is_action_pressed("ui_left"):
-		position.x -= 5
-	if Input.is_action_pressed("ui_up"):
-		position.y -= 5
-	if Input.is_action_pressed("ui_down"):
-		position.y += 5
+func input():
+	var mov_dir = Input.get_vector('ui_left', 'ui_right', 'ui_up', 'ui_down')
+	velocity = mov_dir * speed
+	
+func _physics_process(delta):
+	input()
+	move_and_slide()

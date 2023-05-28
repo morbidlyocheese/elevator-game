@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c4xdewuyqs0x1"
-path="res://.godot/imported/temp_ouch-block.png-926443f3b3de6795093a58bec8e5c593.ctex"
+uid="uid://ccyyq268abtmm"
+path="res://.godot/imported/grass-tile-0.png-6017b9c86b6ea56ad9cb1422b2cac18b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/temp_ouch-block.png"
-dest_files=["res://.godot/imported/temp_ouch-block.png-926443f3b3de6795093a58bec8e5c593.ctex"]
+source_file="res://assets/backgrounds/grass-tile-0.png"
+dest_files=["res://.godot/imported/grass-tile-0.png-6017b9c86b6ea56ad9cb1422b2cac18b.ctex"]
 
 [params]
 
