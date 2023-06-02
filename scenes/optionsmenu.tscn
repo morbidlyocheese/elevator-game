@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://do8m7acll3sa8"]
+
+[ext_resource type="Texture2D" uid="uid://tn2ljin4x184" path="res://assets/buttons/back.png" id="1_ywc46"]
+[ext_resource type="Script" path="res://scripts/backbutton.gd" id="2_x03g5"]
+
+[node name="optionsmenu" type="Node2D"]
+
+[node name="backbutton" type="Button" parent="."]
+offset_left = 24.0
+offset_top = 24.0
+offset_right = 64.0
+offset_bottom = 64.0
+icon = ExtResource("1_ywc46")
+script = ExtResource("2_x03g5")

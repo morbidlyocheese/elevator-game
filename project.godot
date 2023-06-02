@@ -11,19 +11,26 @@ config_version=5
 [application]
 
 config/name="elevator-game"
-run/main_scene="res://scenes/world.tscn"
+run/main_scene="res://scenes/menu.tscn"
 config/features=PackedStringArray("4.0", "Mobile")
-boot_splash/fullsize=false
-config/icon="res://assets/entities/player.png"
+boot_splash/image="res://assets/Cheese_background-cowbert.png"
+config/icon="res://assets/entities/player-wip.png"
 
 [display]
 
 window/size/viewport_width=648
 window/size/viewport_height=1152
 window/stretch/mode="canvas_items"
+window/handheld/orientation=1
 
 [input]
 
+ui_cancel={
+"deadzone": 0.5,
+"events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":4194305,"physical_keycode":0,"key_label":0,"unicode":4194305,"echo":false,"script":null)
+, Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":0,"physical_keycode":4194305,"key_label":0,"unicode":0,"echo":false,"script":null)
+]
+}
 ui_left={
 "deadzone": 0.5,
 "events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":4194319,"physical_keycode":0,"key_label":0,"unicode":4194319,"echo":false,"script":null)

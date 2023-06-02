@@ -1,0 +1,31 @@
+[gd_scene load_steps=4 format=3 uid="uid://p0yaaglgxugl"]
+
+[ext_resource type="Script" path="res://scripts/startgame.gd" id="1_i5tig"]
+[ext_resource type="Script" path="res://scripts/optionsmenu.gd" id="2_4empp"]
+[ext_resource type="Script" path="res://scripts/exit.gd" id="3_fs0aa"]
+
+[node name="menu" type="Node2D"]
+
+[node name="startgame" type="Button" parent="."]
+offset_left = 168.0
+offset_top = 568.0
+offset_right = 479.0
+offset_bottom = 669.0
+text = "start game"
+script = ExtResource("1_i5tig")
+
+[node name="optionsmenu" type="Button" parent="."]
+offset_left = 168.0
+offset_top = 704.0
+offset_right = 480.0
+offset_bottom = 805.0
+text = "options"
+script = ExtResource("2_4empp")
+
+[node name="exit" type="Button" parent="."]
+offset_left = 168.0
+offset_top = 832.0
+offset_right = 479.0
+offset_bottom = 933.0
+text = "exit"
+script = ExtResource("3_fs0aa")
