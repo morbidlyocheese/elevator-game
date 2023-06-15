@@ -11,10 +11,12 @@ config_version=5
 [application]
 
 config/name="elevator-game"
+config/description="its a game involving an elevator"
 run/main_scene="res://scenes/menu.tscn"
 config/features=PackedStringArray("4.0", "Mobile")
 boot_splash/image="res://assets/Cheese_background-cowbert.png"
 boot_splash/fullsize=false
+boot_splash/use_filter=false
 config/icon="res://assets/entities/player-wip.png"
 
 [display]

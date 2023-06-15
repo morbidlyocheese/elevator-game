@@ -1,0 +1,96 @@
+{
+  "initialized": true,
+  "trackedProjects": [
+    "/"
+  ],
+  "filesCheckpoint": {
+    "obsidian/ProjectManagement.md": {
+      "size": 1132,
+      "tags": 5,
+      "links": 0
+    },
+    "addons/godotsteam/README.md": {
+      "size": 3076,
+      "tags": 0,
+      "links": 0
+    },
+    "README.md": {
+      "size": 185,
+      "tags": 0,
+      "links": 0
+    }
+  },
+  "commitTypes": {
+    "/": {
+      "Refactor": 0,
+      "Create": 0,
+      "Link": 2,
+      "Expand": 0
+    }
+  },
+  "dailyCommits": {
+    "/": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 2
+    }
+  },
+  "weeklyCommits": {
+    "/": {
+      "Mon": 2,
+      "Tue": 0,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
+      "Sat": 0,
+      "Sun": 0
+    }
+  },
+  "recentCommits": {
+    "/": {
+      "Expanded": [],
+      "Created": [],
+      "Renamed": [],
+      "Tagged": [
+        "<a class=\"internal-link\" href=\"obsidian/ProjectManagement.md\"> ProjectManagement </a>",
+        "<a class=\"internal-link\" href=\"obsidian/ProjectManagement.md\"> ProjectManagement </a>"
+      ],
+      "Refactored": [],
+      "Deleted": [],
+      "Linked": [],
+      "Removed Tags from": [],
+      "Removed Links from": []
+    }
+  },
+  "ignoreList": [],
+  "divWidth": 50,
+  "divHeight": 400,
+  "divAlign": "left",
+  "topCommits": 2,
+  "commitThreshold": 2000,
+  "commitPerc": 15,
+  "fillColor": "rgba(51, 153, 204, 0.4)",
+  "borderColor": "rgba(51, 153, 204, 1)",
+  "gridColor": "grey"
+}

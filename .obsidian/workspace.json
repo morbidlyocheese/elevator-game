@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "0fabeb141cfb6ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "469ff71898882f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d008db6f1c896cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98b726644c44b2da",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "obsidian/ProjectManagement.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39781a92b33d92c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eea5640c9e7f8543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03390f23e9b8c3d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e25d5365381f6fcd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2024858e559c2790",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fb2cc7b93ad3e66a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb9718f7ccfb5105",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30870a843d726ef9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian/ProjectManagement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "711735b5d579cd57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian/ProjectManagement.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5d283d7783b0651",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25b3c4bcdcc6ef06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian/ProjectManagement.md"
+              }
+            }
+          },
+          {
+            "id": "58c2f4196712181b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "98b726644c44b2da",
+  "lastOpenFiles": [
+    "README.md",
+    "obsidian/ProjectManagement.md",
+    "obsidian",
+    "Project Management.md"
+  ]
+}

@@ -13,6 +13,9 @@ kanban-plugin: basic
 - [ ] add enemy # 1 #entity
 - [ ] add character animations #entity #art
 - [ ] add enemy # 1 animations #entity #art
+- [ ] add enemy pathfinding<br>#entity #code #gamemechanic
+- [ ] add controller support
+- [ ] create tilemap # 1<br><br>#tilemap #art
 
 
 ## in progress
@@ -25,10 +28,10 @@ kanban-plugin: basic
 
 ## complete
 
-- [ ] implement movement
-- [ ] add menu
-- [ ] add options menu
-- [ ] add exit button
+- [x] implement movement
+- [x] add menu
+- [x] add options menu
+- [x] add exit button
 
 
 
